@@ -2,16 +2,17 @@
 import requests,os,time
 from time import sleep
 banner = """
-\033[1;31m ██████╗ ██╗   ██╗██╗   ██╗██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗
-\033[1;36m ██╔══██╗██║   ██║╚██╗ ██╔╝██║ ██╔╝██║  ██║██╔══██╗████╗  ██║██║  ██║
-\033[1;32m ██║  ██║██║   ██║ ╚████╔╝ █████╔╝ ███████║███████║██╔██╗ ██║███████║
-\033[1;34m ██║  ██║██║   ██║  ╚██╔╝  ██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║██╔══██║
-\033[1;35m ██████╔╝╚██████╔╝   ██║   ██║  ██╗██║  ██║██║  ██║██║ ╚████║██║  ██║
-\033[1;31m ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+© Tool Auto Golike Tiktok  By phamvantung
+       Zalo: 0988196974
+       Telegram: @toolgolike0
+       admin cod: @Dark121918
+        ngân hàng: MBBank 
+        STK: 3555020409  
+\033[1;31m ╚═════╝  ╚═════╝
  
-               BOX ZALO: https://zalo.me/g/nguadz335
-               ADMIN : DUY KHÁNH 
-               YTB : REVIEWTOOL247NDK
+               Telegram: @toolgolike0
+               ADMIN : VĂN TÙNG 
+               YTB : @dieuhoangtool
 """
 os.system("clear")
 for x in banner:
