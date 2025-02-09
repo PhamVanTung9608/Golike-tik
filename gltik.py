@@ -35,7 +35,7 @@ if author == "":
   Authorization.write(author)
   t.write(token)
 else:
-  select = input("\033[1;97m║ ĐĂNG\033[1;96m NHẬP \033[1;95mTÀI \033[1;94mKHOẢN \033[1;93mHIỆN \033[1;92mCÓ\033[1;91m ( ENTER ĐỂ BỎ QUA ,NHẬP AUTHORIZATION TẠI ĐÂY \033[1;97m║\033[1;91m ĐỂ ĐỔI )  \n\033[1;97m╚⟩⟩⟩ ")
+  select = input("\033[1;97m║ ĐĂNG\033[1;96m NHẬP \033[1;95mTÀI \033[1;94mKHOẢN \033[1;93mHIỆN \033[1;92mCÓ\033[1;91m ( 1 ĐỂ BỎ QUA ,NHẬP 2 AUTHORIZATION TẠI ĐÂY \033[1;97m║\033[1;91m ĐỂ ĐỔI )  \n\033[1;97m╚⟩⟩⟩ ")
 
   if select != "":
     author = select
