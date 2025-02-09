@@ -2,12 +2,12 @@
 import requests,os,time
 from time import sleep
 banner = """
-© Tool Auto Golike Tiktok  By phamvantung
-       Zalo: 0988196974
-       Telegram: @toolgolike0
-       admin cod: @Dark121918
-        ngân hàng: MBBank 
-        STK: 3555020409  
+\033[1;31m© Tool Auto Golike Tiktok  By phamvantung
+\033[1;32mZalo: 0988196974
+\033[1;33mTelegram: @toolgolike0
+\033[1;34madmin cod: @Dark121918
+ \033[1;35mngân hàng: MBBank 
+ \033[1;36mSTK: 3555020409  
 \033[1;31m ╚═════╝  ╚═════╝
  
                Telegram: @toolgolike0
